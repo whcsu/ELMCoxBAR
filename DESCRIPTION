@@ -1,0 +1,11 @@
+Package: ELMCox
+Type: Package
+Title: Extreme Learning Machine Cox Model for High Dimensional Survival Analysis
+Version: 0.5.0
+Author: Hong Wang
+Maintainer: Hong Wang <wh@csu.edu.cn>
+Description: An R package for Extreme Learning Machines Cox Model for High Dimensional Survival Anlalysis. We present a kernel extreme learning machine Cox model regularized by an $L_0$-based broken adaptive ridge (BAR) penalization method.
+License: GPL (>= 2)
+Imports: Rcpp,survival,RcppNumerical,glmnet,mboost,CoxBoost
+LinkingTo: Rcpp,RcppArmadillo,RcppEigen, RcppNumerical
+RoxygenNote: 6.0.1
