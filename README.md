@@ -34,4 +34,4 @@ testprelin=predict(elmsurvmodel,teset[,-c(rii)])
 
 ### References
 
-Hong Wang and Gang Li. SExtreme Learning Machine Cox Model for High Dimensional Survival Analysis, submitted to Statistics in Medicin
+Hong Wang and Gang Li. SExtreme Learning Machine Cox Model for High Dimensional Survival Analysis, submitted to Statistics in Medicine.
